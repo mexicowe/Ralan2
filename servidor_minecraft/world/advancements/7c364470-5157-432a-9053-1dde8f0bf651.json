@@ -1,0 +1,39 @@
+{
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-12-30 18:10:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-30 18:10:30 -0600"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-12-30 18:10:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-12-30 18:10:32 -0600"
+    },
+    "done": false
+  },
+  "skyarena:root": {
+    "criteria": {
+      "always": "2025-12-30 18:10:30 -0600"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-12-30 18:10:29 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

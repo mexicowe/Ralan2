@@ -1,0 +1,24 @@
+{
+  "allowMovement": {
+    "dev.tr7zw.itemswapper.overlay.ItemListOverlay": true,
+    "dev.tr7zw.itemswapper.overlay.SwitchItemOverlay": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "it.hurts.sskirillss.relics.client.screen.description.RelicDescriptionScreen": true,
+    "it.hurts.sskirillss.relics.client.screen.description.AbilityDescriptionScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.sammy.malum.client.screen.container.WeaversWorkbenchContainerScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "net.mcreator.mofusbetterend.client.gui.BookOfVoidGUIScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "net.mcreator.portablewardrobearmorswap.client.gui.MagicWardrobeTier1Screen": true,
+    "melonslise.locks.client.gui.LockPickingScreen": false,
+    "de.maxhenkel.corpse.gui.CorpseAdditionalScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.sammy.malum.client.screen.codex.screens.ArcanaProgressionScreen": true,
+    "com.sammy.malum.client.screen.codex.screens.EntryScreen": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "com.supermartijn642.core.gui.WidgetContainerScreen": true
+  },
+  "hideBackground": {}
+}
